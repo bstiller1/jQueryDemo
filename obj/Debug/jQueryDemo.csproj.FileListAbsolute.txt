@@ -1,0 +1,6 @@
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\bin\jQueryDemo.dll.config
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\bin\jQueryDemo.dll
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\bin\jQueryDemo.pdb
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.csprojResolveAssemblyReference.cache
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.dll
+c:\users\triosstudent\documents\visual studio 2013\Projects\jQueryDemo\jQueryDemo\obj\Debug\jQueryDemo.pdb
